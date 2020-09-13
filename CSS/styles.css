@@ -49,3 +49,16 @@
     font-size: 18px;
     font-family: 'Lobster Two', cursive;
   }
+  #reset {
+    background-color: #FFC300;
+    font-weight: 900;
+    font-family: 'Lobster Two', cursive;
+  
+  }
+  .btn {
+    padding: 50px;
+    color: #f1f1f1;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    font-family: 'Lobster Two', cursive;
+  }
