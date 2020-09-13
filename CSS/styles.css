@@ -25,3 +25,14 @@
     width: 50%;
     padding: 15px;
   }
+  .heading {
+    background-image: url(https://cdn.trendhunterstatic.com/thumbs/lucia-pizza.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    position: relative;
+    text-align: center;
+    color: rgb(250, 249, 249);
+    padding-bottom: 600px;
+    padding-top: 150px;
+  }
